@@ -1,0 +1,14 @@
+Class Name,Total Count,Training Count,Validation Count,Test Count
+decent glass,302,281,14,7
+dirty glass,208,189,6,13
+good steel,119,116,2,1
+good glass,104,94,4,6
+bad steel,88,87,1,0
+balcony railing,81,81,0,0
+bad paint,50,50,0,0
+bad glass,46,37,6,3
+dust,43,43,0,0
+rust,27,27,0,0
+Label or Banner,13,12,1,0
+crack,7,7,0,0
+water,3,3,0,0
